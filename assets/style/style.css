@@ -88,8 +88,11 @@ footer {
     margin-left: 20px;
 }
 
-.video {
+iframe {
     box-shadow:  4px 11px 13px 1px #7f7777;
+}
+
+.video {
     text-align: center;
 }
 
